@@ -1,0 +1,17 @@
+Enclosure: 
+https://www.mouser.dk/ProductDetail/Hammond-Manufacturing/RL6105?qs=sGAEpiMZZMsrGrAVj6eTvXcJO6AATeuQfU835NDT5fA%3d
+
+BatteryHolder:
+https://www.ebay.com/itm/2-Pieces-2-Pin-Black-Plastic-2-x-1-5V-AAA-Battery-Cell-Case-Holder-LW-SZUS-New/182766447207?epid=1542896114&hash=item2a8dbaaa67:g:cVkAAOSwnGJWTzi4
+
+Voltage Switch:
+https://www.mouser.dk/ProductDetail/CW-Industries/GRS-4023A-1300?qs=sGAEpiMZZMtNT9UGfLL4eEXUF0YHaQ0QTwNGRCeoNRo%3d
+
+Polarity Switch:
+https://www.mouser.dk/ProductDetail/CW-Industries/GRS-4023C-1300?qs=sGAEpiMZZMtNT9UGfLL4eEXUF0YHaQ0Qf%252blNhmIa%2fa0%3d
+
+Wire Strain Relief:
+https://www.mouser.dk/ProductDetail/Vitelec-Cinch-Connectivity-Solutions/VSR304?qs=%2fha2pyFadugrEE4cZlYShTMxW%252b4UVP2ZGU1i1J9hF2Bq%252bT3XYNRU%252bQ%3d%3d
+
+Toothless alligator clips:
+https://www.mouser.dk/ProductDetail/Mueller-Electric/BU-34X?qs=sGAEpiMZZMt6TxecXUIS9mgDjFHCkDFvlHBklop7qbrh9WEhSn0UrQ%3d%3d
